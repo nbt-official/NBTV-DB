@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/EpicModsChannel"
+  "title": "Under Maintenance",
+  "message": "The application's servers are being updated from 6:00 am to 8:00 am, after which, the application can be used as usual.\n Thank you for understanding us :)",
+  "UpdateButtonText": "Follow Us",
+  "UpdateButtonUrl": "https://whatsapp.com/channel/0029Vb8EIGcFCCoakhtbFQ3T"
 }
