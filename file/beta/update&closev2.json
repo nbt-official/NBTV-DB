@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "2.0",
   "title": "Unavailable",
   "message": "Thank you for understanding us :)",
   "UpdateButtonText": "Follow Us",
-  "UpdateButtonUrl": ""
+  "UpdateButtonUrl": "https://whatsapp.com/channel/0029Vb8EIGcFCCoakhtbFQ3T"
 }
