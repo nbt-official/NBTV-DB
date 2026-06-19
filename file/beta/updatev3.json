@@ -1,14 +1,15 @@
 {
-  "show": false,
+  "show": true,
   "force": true,
-  "version_name": "2.0.0",
+  "version_name": "2.2.0",
   "version_code": 2,
   "title": "New Update Available! 🚀",
-  "message": "We've added new features and fixed bugs. Update now for the best experience!",
+  "message": "We've fixed some bugs of our Application. Update now for the Best experience!",
   "update_url": "https://t.me/UnknownModzOfficial",
   "changelog": [
-    "✅ New UI design",
-    "🐛 Bug fixes",
-    "⚡️ Performance improvements"
+    "✅ Screen off Fixed",
+    "🐛 Channels slide Fixed",
+    "✨ Scroll lag 100% Fixed",
+    "⚡️ Performance Improvements"
   ]
 }
