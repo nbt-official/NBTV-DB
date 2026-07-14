@@ -1,15 +1,15 @@
 {
-  "show": false,
-  "force": true,
-  "version_name": "3.0.0-nbtv",
+  "show": true,
+  "force": false,
+  "version_name": "3.0.0-nbtv-fixed",
   "version_code": 3,
   "title": "New Update Available! 🚀",
   "message": "We've fixed some bugs of our Application. Update now for the Best experience!",
   "update_url": "https://whatsapp.com/channel/0029Vb8EIGcFCCoakhtbFQ3T/198",
   "changelog": [
-    "🐛 Video Quality Bug Fixed",
-    "✨ Swipe Fixed",
+    "🐛 Pro Page Expire Date BugFixed",
+    "✨ Swipe Lag Fixed",
     "⚡️ Performance Improvements",
-    "🤍 Second Anniversary Edition"
+    "🤍 Second Anniversary Edition Fixed"
   ]
 }
