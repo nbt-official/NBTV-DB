@@ -1,5 +1,5 @@
 {
-  "show": false,
+  "show": true,
   "force": true,
   "version_name": "3.0.0-nbtv",
   "version_code": 3,
@@ -7,7 +7,8 @@
   "message": "We've fixed some bugs of our Application. Update now for the Best experience!",
   "update_url": "https://whatsapp.com/channel/0029Vb8EIGcFCCoakhtbFQ3T/198",
   "changelog": [
-    "🐛 Video Quality Bug Fixed",
+    "🐛 Activate Button Fixed",
+    "⛔ Loading Error Fixed",
     "✨ Swipe Fixed",
     "⚡️ Performance Improvements",
     "🤍 Second Anniversary Edition"
