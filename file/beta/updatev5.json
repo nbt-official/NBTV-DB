@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": false,
+  "force": true,
   "version_name": "3.0.0-nbtv-fixed",
   "version_code": 3,
   "title": "New Update Available! 🚀",
